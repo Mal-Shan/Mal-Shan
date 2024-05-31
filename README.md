@@ -1,4 +1,4 @@
-## Hello! 👋🏾 This is my GitHub Repo: 
+## Hello! 👋🏾 In my GitHub Repo, you will find: 
 
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
