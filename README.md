@@ -1,4 +1,4 @@
-## Hello! 👋🏾 In my GitHub Profile, you will find the following Repos...
+## Hello! 👋🏾 In my GitHub Profile, you will find the following repos
 
 🏥 **HealthSecurity**: Monitor real-time trends in cyberattacks against sensitive patient health information 
 
