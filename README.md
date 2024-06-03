@@ -2,6 +2,22 @@
 
 🏥 **HealthSecurity**: Monitor real-time trends in cyberattacks against sensitive patient health information 
 
+## 👩🏾‍💻 Programming Experience 
+- Java
+- Python
+- R Package Creation & Deployment
+- Shiny/Flexdashboard Development in R
+- Linux Terminal Security
+- JavaScript
+- Dart
+- HTML
+- C++
+- Swift
+- Android Application Development
+- Website Design & Development
+- Autodesk Fusion for CAD Design
+- LaTeX Markup in RMarkdown and Overleaf
+
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
