@@ -2,7 +2,7 @@
 
 🏥 **HealthSecurity**: Monitor real-time trends in cyberattacks against sensitive patient health information 
 
-👩🏾‍⚕️ **Diabetes-Eye-Exam**:
+👩🏾‍⚕️ **Diabetes-Eye-Exam**: Analyze trends in eye examinations for individuals with Diabetes in the United States 
 
 ## 👩🏾‍💻 Programming Experience 
 - Java (Oracle Certified Associate)
