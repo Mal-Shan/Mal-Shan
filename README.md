@@ -21,7 +21,7 @@
 - LaTeX Markup in RMarkdown and Overleaf
 
 ## 👩🏾‍🔬 Computational Biology and Bioinformatics Knowledge 
-- Data Analysis and Model Development (linear regression, logistic regression, t-test, ANOVA, Chi-square test, Fisher's exact test)
+- Data Analysis and Model Development (linear regression, logistic regression, mixed effect models, t-test, ANOVA, Chi-square test, Fisher's exact test)
 
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
