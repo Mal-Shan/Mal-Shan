@@ -9,6 +9,7 @@
 - Python
 - R Package Creation & Deployment
 - Shiny/Flexdashboard Development in R
+- Website Creation in R 
 - Linux Terminal Security (GIAC Foundational CyberSecurity Certified)
 - JavaScript
 - Dart
@@ -18,6 +19,9 @@
 - Website Design & Development
 - Autodesk Fusion for CAD Design
 - LaTeX Markup in RMarkdown and Overleaf
+
+## 👩🏾‍🔬 Computational Biology and Bioinformatics Knowledge 
+- Data Analysis and Model Development (linear regression, logistic regression, t-test, ANOVA, Chi-square test, Fisher's exact test)
 
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
