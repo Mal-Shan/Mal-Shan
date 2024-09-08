@@ -29,6 +29,8 @@
   - ANOVA
   - Chi-square test
   - Fisher's exact test
+- BioConductor Tools
+  - DESeq2 
 
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
