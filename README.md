@@ -1,9 +1,3 @@
-## Hello! 👋🏾 In my GitHub Profile, you will find the following repos
-
-🏥 **HealthSecurity**: Monitor real-time trends in cyberattacks against sensitive patient health information 
-
-👩🏾‍⚕️ **Diabetes-Eye-Exam**: Analyze trends in eye examinations for individuals with Diabetes in the United States 
-
 ## 👩🏾‍💻 Programming Experience 
 - Java (Oracle Certified Associate)
 - Python
