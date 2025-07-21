@@ -1,6 +1,6 @@
 ## Skills & Experience
 
-- 👩🏾‍💻 **Programming:**  Java (Oracle Certified Associate), Python (GenAI Certification from Databricks, Numpy, Matplotlib, TensorFlow, Keras, PyTorch, Scikit-learn, seaborn), R (Package Creation & Deployment, Shiny/Flexdashboard, Website Creation with Distill for RMarkdown and Quarto), Linux Terminal Security (GIAC Foundational CyberSecurity Certified), JavaScript, Dart, HTML, C++, Android Application Development (Dart, Flutter Software Development Kit), Autodesk Fusion for CAD Design, LaTeX Markup in RMarkdown and Overleaf
+- 👩🏾‍💻 **<u>Programming:</u>**  Java (Oracle Certified Associate), Python (GenAI Certification from Databricks, Numpy, Matplotlib, TensorFlow, Keras, PyTorch, Scikit-learn, seaborn), R (Package Creation & Deployment, Shiny/Flexdashboard, Website Creation with Distill for RMarkdown and Quarto), Linux Terminal Security (GIAC Foundational CyberSecurity Certified), JavaScript, Dart, HTML, C++, Android Application Development (Dart, Flutter Software Development Kit), Autodesk Fusion for CAD Design, LaTeX Markup in RMarkdown and Overleaf
 
 - 👩🏾‍🔬 **Bioinformatics:** Sequence analysis (BLAST, FASTA tools, k-mer analysis, read alignment with STAR, quantification using featureCounts and Salmon, Differential Expression with DESeq2 and edgeR), Pathway Enrichment (GO, KEGG), scRNA-seq (Seurat - Quality control, normalization, clustering)
   
