@@ -1,18 +1,6 @@
-## 👩🏾‍💻 Programming Experience 
-- Java (Oracle Certified Associate)
-- Python
-- R Package Creation & Deployment
-- Shiny/Flexdashboard Development in R
-- Website Creation in R 
-- Linux Terminal Security (GIAC Foundational CyberSecurity Certified)
-- JavaScript
-- Dart
-- HTML
-- C++
-- Android Application Development
-- Website Design & Development
-- Autodesk Fusion for CAD Design
-- LaTeX Markup in RMarkdown and Overleaf
+## 
+
+- 👩🏾‍💻 **Programming Experience**:  Java (Oracle Certified Associate), Python, R Package Creation & Deployment, Shiny/Flexdashboard Development in R, Website Creation in R, Linux Terminal Security (GIAC Foundational CyberSecurity Certified), JavaScript, Dart, HTML, C++, Android Application Development, Website Design & Development. Autodesk Fusion for CAD Design, LaTeX Markup in RMarkdown and Overleaf
 
 <!--
 **Mal-Shan/Mal-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
