@@ -1,5 +1,7 @@
 ## Skills & Experience
 
+- 👩🏾‍💼 **Portfolio:** https://mal-shan.my.canva.site/#projects
+
 - 👩🏾‍💻 **Programming:**
   - Java (Oracle Certified Associate), Python (GenAI Certification from Databricks, Numpy, Matplotlib, TensorFlow, Keras, PyTorch, Scikit-learn, seaborn), R (Package Creation & Deployment, Shiny/Flexdashboard, Website Creation with Distill for RMarkdown and Quarto), Linux Terminal Security (GIAC Foundational CyberSecurity Certified), JavaScript, Dart, HTML, C++, Android Application Development (Dart, Flutter Software Development Kit), Autodesk Fusion for CAD Design, LaTeX Markup in RMarkdown and Overleaf
 
